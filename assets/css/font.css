@@ -1,0 +1,28 @@
+body {
+    --font-big: 100px;
+    --font-mid: 50px;
+    --font-small: 30px;
+}
+
+button {
+    font-size: var(--font-small);
+}
+
+#title {
+    font-size: var(--font-big);
+}
+
+.white {
+    color: white;
+    font-size: var(--font-mid);
+
+
+}
+
+#inp {
+    font-size: var(--font-mid);
+}
+
+#inp2 {
+    font-size: var(--font-mid);
+}

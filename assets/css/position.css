@@ -1,0 +1,33 @@
+.pos {
+    position: relative;
+    top: 600px;
+    left: 1000px;
+}
+
+.layout_flex_row {
+    display: flex;
+    flex-direction: row;
+}
+
+.layout_flex_coloum {
+    display: flex;
+    flex-direction: column;
+}
+
+.layout_flex_coloum_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.same {
+    flex-grow: 1;
+    position: relative;
+    left: 200px;
+}
+
+button {
+    margin-left: 20px;
+}
